@@ -19,7 +19,7 @@ This repository is a collection of my DSA implementations and problem-solving pr
 |---------------|----------------|
 | 🟨 JavaScript | `node javascript/binarySearch.js` |
 | 🐍 Python     | `python python/binary_search.py` |
-| ☕ Java        | `javac java/Arrays.java && java -cp java Arrays` |
+| ☕ Java        | ` javac Java/Overloading.java && java -cp . Java.Overloading` |
 | 💻 C++         | `g++ cpp/stack.cpp -o stack && ./stack` |
 
 ---
